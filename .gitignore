@@ -1,0 +1,25 @@
+# API ключи и секреты
+.env
+
+# Логи
+*.log
+
+# Зависимости
+node_modules/
+client/node_modules/
+npm-debug.log*
+package-lock.json
+client/package-lock.json
+
+# Билды
+dist/
+build/
+client/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
